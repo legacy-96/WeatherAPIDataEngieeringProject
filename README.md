@@ -1,6 +1,7 @@
 This projects showcases the seamless integration of Apache Airflow and AWS services to process and analyze data.
 
 Here’s how it all came together:
+
 1️⃣ Data Extraction: Running Apache Airflow on an Amazon EC2 instance, I automated the extraction of real-time weather data from a public API.
 
 2️⃣ Data Transformation: I used Python code to clean, structure, and prepare the data before uploading it to Amazon S3.
